@@ -1,7 +1,10 @@
 # Cafetera
 
 ![pantallade ui](./src/assets/images/ui.jpg)
-![reporte de pruebas](./src/assets/images/testingReport.jpg)
+<p align="center">
+  <img src="./src/assets/images/testingReport.jpg" />
+</p>
+                  
 
 
 ## Available Scripts
